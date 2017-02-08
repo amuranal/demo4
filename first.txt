@@ -1,2 +1,3 @@
 First file text
 second line from git
+third line
